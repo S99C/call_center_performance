@@ -2,7 +2,6 @@
 <br>
 
 ## Identified following KPIs and prepared visuals to analyze the call center performance:
-<br>
 • Overall customer satisfaction
 <br>
 • Overall calls answered/abandoned
