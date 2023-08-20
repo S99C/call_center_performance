@@ -1,5 +1,4 @@
 # call_center_performance
-<br>
 
 ## Identified following KPIs and prepared visuals to analyze the call center performance:
 • Overall customer satisfaction
