@@ -1,4 +1,18 @@
 # call_center_performance
+<br>
+
+## Identified following KPIs and prepared visuals to analyze the call center performance:
+<br>
+• Overall customer satisfaction
+<br>
+• Overall calls answered/abandoned
+<br>
+• Calls by time
+<br>
+• Average speed of answer
+<br>
+• Agent's performance quadrant -> average handle time (talk duration) vs calls answered
+<br>
 
 <br>
 
