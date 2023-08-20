@@ -1,0 +1,8 @@
+Create a dashboard for the Call Centre Manager to understand the trends.
+
+KPIs to include (to get started, but not limited to):
+• Overall customer satisfaction
+• Overall calls answered/abandoned
+• Calls by time
+• Average speed of answer
+• Agent's performance quadrant -> average handle time (talk duration) vs calls answered
