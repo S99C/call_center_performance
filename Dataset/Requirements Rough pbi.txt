@@ -1,0 +1,21 @@
+Create a dashboard for the Call Centre Manager to
+understand todays trends
+
+
+For example:
+total number Of calls answered and abandoned,
+speed of answer,
+length of calls,
+overall customer satisfaction, etc.
+
+What I'm after is an accurate overview of long-term
+trends in customer and agent behaviour.
+
+..........................................................................
+
+Possible KPIs include (to get you started, but not limited to):
+• Overall customer satisfaction
+• Overall calls answered/abandoned
+• Calls by time
+• Average speed of answer
+• Agent's performance quadrant -> average handle time (talk duration) vs calls answered
